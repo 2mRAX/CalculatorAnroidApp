@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="sign_power">x<sup>y</sup></string>
+</resources>
